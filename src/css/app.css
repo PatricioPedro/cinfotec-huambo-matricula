@@ -1,0 +1,15 @@
+/* app global css */
+
+
+.primary-color {
+    background-color:#12125e;
+}
+
+.second-color {
+    background-color: #5f77c0;
+}
+
+.cinfotec-page {
+    margin: auto;
+    max-width: 900px;
+}
